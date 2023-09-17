@@ -1,0 +1,50 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: rgb(27, 195, 218);
+    padding: 20px;
+    border-radius:20px ; 
+}
+
+h1 {
+    color: rgb(22, 22, 173);
+    background-color: rgba(32, 197, 202, 0.779);
+    border-radius: 20px;
+    font-size: 20px;
+    text-align: center;
+ }
+ 
+ footer  {
+     background-color: white;
+  }
+ 
+ footer p {
+ background-color: greenyellow;
+  }
+
+nav a {
+    padding:3px;
+ font-size:20px;
+ text-decoration: none;
+ margin:10px;
+ color: rgb(255, 255, 255);
+
+ }
+
+ nav {
+margin:15px;
+padding:10px;
+background-color:green; 
+}
+
+h2 {
+ color: rgb(26, 4, 125);  
+}
+ p img { 
+     background-color:green; 
+   
+
+ 
+    } 
